@@ -9,4 +9,7 @@ package school.sr.demogit.demo;
  */
 
 public class UserService {
+    public void helloWorld() {
+        System.out.println("без логики");
+    }
 }
