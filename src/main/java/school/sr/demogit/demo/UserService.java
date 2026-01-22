@@ -11,6 +11,5 @@ package school.sr.demogit.demo;
 public class UserService {
     public void helloWorld() {
         System.out.println("без логики");
-        System.out.println("commit in master and push in master");
     }
 }
